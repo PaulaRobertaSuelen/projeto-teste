@@ -20,4 +20,5 @@ inicio
    FimSe
    escreval("Sexo digitado: ", valor)
    escreval("Processo finalizado!! ")
+   
 fimalgoritmo
