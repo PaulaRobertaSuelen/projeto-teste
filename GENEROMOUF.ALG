@@ -9,7 +9,7 @@ inicio
       leia(sexo)
 
       se (sexo <>"M") e (sexo <> "F") entao
-         escreval("Entrada inválida. Por favor, digite 'M' ou 'F'.")
+         escreval("Entrada invï¿½lida. Por favor, digite 'M' ou 'F'.")
       fimse
    ate (sexo = "M") ou (sexo = "F")
 
@@ -18,5 +18,6 @@ inicio
    senao
       valor<-"Masculino!"
    FimSe
-   escreva("Sexo digitado: ", valor)
+   escreval("Sexo digitado: ", valor)
+   escreval("Processo finalizado!! ")
 fimalgoritmo
