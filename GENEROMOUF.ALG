@@ -5,7 +5,7 @@ var
    valor:caracter
 inicio
    repita
-      escreva("Digite o sexo (M/F): ")
+      escreva("Digite o sexo (M/F): ") // o usuario vai escolher seu genero
       leia(sexo)
 
       se (sexo <>"M") e (sexo <> "F") entao
