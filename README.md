@@ -1,4 +1,3 @@
 #projeto-teste
 
-O código tem como função dizer o sexo do usuario de 
-acordo com a informação que ele disponibiliza, podendo dizer feminino ou masculino. 
+Projeto com o intuito de praticar as funções e semânticas do GitHunb.  
