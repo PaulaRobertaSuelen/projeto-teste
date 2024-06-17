@@ -1,0 +1,1 @@
+Algoritmo da tabuada serve para o usuário escolher um número qualquer e serão mostrados os resultados do número multiplicado de 0 até 9
