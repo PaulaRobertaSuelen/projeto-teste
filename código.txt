@@ -1,0 +1,1 @@
+se trata de um programa para ver se você é de maior ou de menor.
